@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/adriafreitas?logo=github&style=for-
 
 ### Socials
 
-<a href="https://www.github.com/adriafreitas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/accounts/onetap/?next=%2F" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/adriafreitas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://instagram.com/adriafreitas2006?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 ### Badges
 
