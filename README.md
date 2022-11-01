@@ -1,7 +1,7 @@
 Hi 👋 My name is Adria
 ==========================
 
-Novice Python Developer
+Novice Developer
 -----------------------------
 
 I'm a 16 years old. Starting my journey in the programming world.
